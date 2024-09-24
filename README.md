@@ -2,8 +2,8 @@
 This repository contains maps and code for a mapping project using QGIS and Jupyter Notebook.
 ## Repository Structure
 
-Maps/: This folder contains all the maps created for the project.
-Notebook/: This folder contains Jupyter Notebooks with the code used for map creation and analysis.
+Maps: This folder contains all the maps created for the project.
+Notebook: This folder contains Jupyter Notebooks with the code used for map creation and analysis.
 
 ## Tools Used
 
