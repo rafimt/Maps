@@ -16,7 +16,7 @@ Notebook: This folder contains Jupyter Notebooks with the code used for map crea
 This project uses several Python libraries for geospatial data processing and visualization:
 
 1. GeoPandas
-2.Matplotlib
+2. Matplotlib
 3. Leafmap
 4. OSMnx
 5. Folium
